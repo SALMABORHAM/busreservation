@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1668647311 source:c:\users\4s\desktop\bus reservation\main.cpp
+	<iostream>
+	"Bus.h"
+
+1668648283 c:\users\4s\desktop\bus reservation\include\bus.h
+	<iostream>
+	<string>
+	<vector>
+
+1668648356 source:c:\users\4s\desktop\bus reservation\src\bus.cpp
+	"Bus.h"
+
+1668647311 source:c:\users\4s\desktop\final projects\bus reservation\main.cpp
+	<iostream>
+	"Bus.h"
+
+1668648283 c:\users\4s\desktop\final projects\bus reservation\include\bus.h
+	<iostream>
+	<string>
+	<vector>
+
+1668648356 source:c:\users\4s\desktop\final projects\bus reservation\src\bus.cpp
+	"Bus.h"
+
